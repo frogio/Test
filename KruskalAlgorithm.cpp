@@ -133,3 +133,4 @@ void main() {
 		cout << MST[i].src << '\t' << MST[i].dst << '\t' << MST[i].weight << endl;
 
 }
+#1234
